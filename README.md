@@ -25,7 +25,7 @@ Premium Live TV Desktop Application built with Flutter. Experience seamless stre
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/News-TV.git
+   git clone https://github.com/mahtab-jack/News-TV.git
    cd News-TV/tv_app
    ```
 
