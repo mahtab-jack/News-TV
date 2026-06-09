@@ -4,6 +4,17 @@ Premium Live TV Desktop Application built with Flutter. Experience seamless stre
 
 ![App Logo](assets/logo.png)
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/main_screen.png" width="400" alt="Main Player">
+  <img src="assets/screenshots/tv_guide.png" width="400" alt="TV Guide">
+</p>
+<p align="center">
+  <img src="assets/screenshots/settings.png" width="400" alt="Settings Panel">
+  <img src="assets/screenshots/search.png" width="400" alt="Search Interface">
+</p>
+
 ## ✨ Features
 
 - **High-Performance Streaming**: Powered by `media_kit` for low-latency, high-quality playback.
