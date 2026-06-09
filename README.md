@@ -7,8 +7,12 @@ Premium Live TV Desktop Application built with Flutter. Experience seamless stre
 ## 📸 Screenshots
 
 <p align="center">
+  <img src="assets/screenshots/start_screen.png" width="400" alt="Start Screen">
   <img src="assets/screenshots/main_screen.png" width="400" alt="Main Player">
-  <img src="assets/screenshots/tv_guide.png" width="400" alt="TV Guide">
+</p>
+<p align="center">
+  <img src="assets/screenshots/channel_guide.png" width="400" alt="Channel Guide">
+  <img src="assets/screenshots/all_channels.png" width="400" alt="Category List">
 </p>
 <p align="center">
   <img src="assets/screenshots/settings.png" width="400" alt="Settings Panel">
