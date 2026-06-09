@@ -1,5 +1,12 @@
 # News TV 📺
 
+<p align="left">
+  <img src="https://img.shields.io/github/license/mahtab-jack/News-TV?style=for-the-badge&color=blue" alt="License">
+  <img src="https://img.shields.io/github/v/release/mahtab-jack/News-TV?style=for-the-badge&color=orange" alt="Release">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+</p>
+
 Premium Live TV Desktop Application built with Flutter. Experience seamless streaming with a modern UI, remote control support, and intelligent zapping.
 
 ![App Logo](assets/logo.png)
