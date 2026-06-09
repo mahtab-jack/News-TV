@@ -35,6 +35,17 @@ Premium Live TV Desktop Application built with Flutter. Experience seamless stre
 - **Modern UI/UX**: Dynamic overlays, smooth animations, and a responsive settings panel.
 - **Customizable**: Toggle hardware acceleration, low-latency mode, and window appearance.
 
+## 📱 News TV Remote
+
+Control your viewing experience directly from your Android device. The companion remote app allows for seamless channel switching, volume control, and navigation via a simple QR code scan.
+
+### Download Remote APK
+You can download the latest version of the **News TV Remote APK** from the [GitHub Releases](https://github.com/mahtab-jack/News-TV/releases) section.
+
+1. Download `news_tv_remote.apk` to your Android phone.
+2. Install the APK (enable "Install from unknown sources" if prompted).
+3. Open the app and scan the QR code displayed on your TV screen to pair.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
